@@ -1,8 +1,8 @@
-const button =document.createElement("button");
+const button =document.createElement("button")
 button.setAttribute("type","button")
-button.innerText = "Submit"
+button.innerText = "click here to wish"
 button.addEventListener("click",foo);
-foo()
+function foo()
 {
     alert(" 🌷🌹🌼Happy 🌺 Onam💐🌾🌸");
 }
