@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color: white;
     margin: 50px;
     padding: 50px;
     margin-top: 50px;
@@ -10,4 +10,8 @@ button{
     padding: 20px;
     font-size: medium;
     font-style: italic;
+}
+div{
+    padding: 50px;
+    background-color:darkgoldenrod;
 }
